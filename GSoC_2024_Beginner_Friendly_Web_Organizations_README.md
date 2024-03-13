@@ -1,7 +1,7 @@
-<h1 align="center">Google Summer of Code 2024: Beginner-Friendly Web Organizations 🚀</h1>
+<h1 align="center">Beginner-Friendly Web Organizations 🚀</h1>
 
 <p align="center">
-  Welcome to the list of beginner-friendly web organizations for Google Summer of Code 2024! Here's your chance to dive into open-source contributions with these amazing organizations! 💻✨
+  Here's your chance to dive into open-source contributions with these amazing organizations! 💻✨
 </p>
 
 ## Introduction
